@@ -1,4 +1,4 @@
-# Culture Shocked: Unpacking Minds Abroad
+# Culture Shocked: Student Mental Health Abroad
 ## Overview
 This project explores the mental health challenges faced by international students, focusing on social connectedness and acculturative stress. The analysis is based on data from a study conducted by a Japanese international university in 2018, which was approved by several ethical and regulatory boards. The study found that international students are at a higher risk of mental health difficulties compared to the general population.
 
